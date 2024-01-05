@@ -16,8 +16,8 @@ Run the script to see if the login is successful or failed.
 This script is intended for educational purposes only. Please use it responsibly and adhere to the terms of service of the Thapar Institute of Engineering and Technology. The developer is not responsible for any misuse of this script.
 
 ## **Dependencies**
-Python 3.x
-requests library
+-Python 3.x
+-Requests library
 ## **Note**
 This script may need adjustments if there are changes to the WebKiosk login process. Use at your own risk.
 
